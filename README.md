@@ -1,1 +1,7 @@
-I have developed a complete machine learning pipeline to predict Toyota car resale prices using structured data analytics and statistical modeling. The project includes rigorous data cleaning, transformation, and exploratory data analysis to identify the key factors that influence vehicle pricing. I engineered meaningful features, compared multiple regression models, and selected the best-performing approach based on robust evaluation metrics. This work demonstrates end-to-end ML development—from understanding raw data to delivering an accurate, interpretable price-prediction model supported by clear visual insights.
+Toyota Car Price Analysis | Python, Pandas, Matplotlib, Seaborn
+
+Conducted Exploratory Data Analysis (EDA) on the Toyota car price dataset to identify factors influencing used car prices.
+Performed data cleaning and preprocessing using Pandas and NumPy to prepare the dataset for analysis.
+Created data visualizations (histograms, box plots, scatter plots, heatmaps) using Matplotlib and Seaborn to understand price distribution and feature relationships.
+Analyzed the impact of variables such as car age, mileage (KM driven), horsepower, and fuel type on vehicle price.
+Generated actionable insights to understand key drivers affecting the resale value of Toyota cars.
